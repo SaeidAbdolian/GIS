@@ -41,5 +41,5 @@ Respectively :
 
 
 
-Finally download and install ***pycharm 2018***
+Finally download and install *pycharm 2018*
 
