@@ -27,7 +27,7 @@ This is a website as WebGIS that used for notifications of university. We can no
     <h3 align="center">download and install 2 parameters in under website :</h3>
     <h3 align="center">gdal-203-1900-x64-core.msi - GDAL-2.3.2.win-amd64-py2.7.msi</h3>
     <h5 align="center"><a href="https://gisinternals.com/query.html?content=filelist&file=release-1900-x64-gdal-2-3-2-mapserver-7-2-1.zip">gdal - GDAL</a></h5>
-        <h3 align="center">download and install psycopg2-2.6.2.win-amd64-py2.7-pg9.5.3-release.exe</h3>
+    <h3 align="center">download and install psycopg2-2.6.2.win-amd64-py2.7-pg9.5.3-release.exe</h3>
     <h5 align="center"><a href="http://www.stickpeople.com/projects/python/win-psycopg/"> psycopg2-2.6.2</a></h5>
 </div>
 
@@ -35,21 +35,15 @@ This is a website as WebGIS that used for notifications of university. We can no
 To starting , that’s good if you know each of programming which we will need.
 To get started, it is best to learn the following programming programs. We will need these programs to design a WebGIS
 Respectively :
-HTML
-http://behindl.behinlabs.com/dll/uploads/WebGIS_Course_S2_Part1_GISPlus.ir.zip
-CSS
-http://behindl.behinlabs.com/dll/uploads/WebGIS_Course_S2_Part2.zip
-javascript
-http://behindl.behinlabs.com/dll/uploads/WebGIS_Course_S3_Part1.zip
-jquery
-http://behindl.behinlabs.com/dll/uploads/WebGIS_Course_S3_Part2.zip
-
 
 <div class="alert alert-info">
-    <h1 align="center">Machine Learning in Python</h1>
-    <h3 align="center">Week 01: Introduction to numpy</h3>
-    <h5 align="center"><a href="http://www.snrazavi.ir/ml-with-python">Seyed Naser RAZAVI</a></h5>
+    <h5 align="center"><a href="http://behindl.behinlabs.com/dll/uploads/WebGIS_Course_S2_Part1_GISPlus.ir.zip">HTML</a></h5>
+    <h5 align="center"><a href="http://behindl.behinlabs.com/dll/uploads/WebGIS_Course_S2_Part2.zip">CSS</a></h5>
+    <h5 align="center"><a href="http://behindl.behinlabs.com/dll/uploads/WebGIS_Course_S3_Part1.zip">javascript</a></h5>
+    <h5 align="center"><a href="http://behindl.behinlabs.com/dll/uploads/WebGIS_Course_S3_Part2.zip">jquery</a></h5>
 </div>
 
-6 download and install pycharm 2018
+
+
+Finally download and install pycharm 2018
 
