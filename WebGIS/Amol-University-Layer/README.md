@@ -11,6 +11,7 @@ This is a website as WebGIS that used for notifications of university. We can no
 </div>
 
 <div class="alert alert-info">
+    <h3 align="You should do process according to subset in order to running this project</h3>
     <h3 align="center">download and install python 2.7  for Windows x86/64 MSI installer</h3>
     <h5 align="center"><a href="https://www.python.org/downloads/release/python-2718/">python 2.7</a></h5>
     <h3 align="center">download postgresql 9.6.20</h3>
