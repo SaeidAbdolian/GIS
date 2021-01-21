@@ -3,10 +3,14 @@
     <h3 align="center">Notifications of University in Amol</h3>
 </div>
 
+
 This is a website as WebGIS that used for notifications of university. We can notice student about feilds of study for every university and other information about the university on the map so the student will can search her faverite of sciencrific issues and the best university which they can be successfull in there.
 
 <div class="alert alert-info">
-    <h1 align="You should do process according to subset in order to running this project</h1>
+    <h3 align="You should do process according to subset in order to running this project</h3>
+</div>
+
+<div class="alert alert-info">
     <h3 align="center">download and install python 2.7  for Windows x86/64 MSI installer</h3>
     <h5 align="center"><a href="https://www.python.org/downloads/release/python-2718/">python 2.7</a></h5>
     <h3 align="center">download postgresql 9.6.20</h3>
