@@ -43,3 +43,6 @@ Respectively :
 
 Finally download and install **pycharm 2018**
 
+You need install essential libraries for python on pycharm in order to running this project like subset image:
+
+<img src='https://github.com/SaeidAbdolian/GIS/blob/main/WebGIS/Amol-University-Layer/img/library.PNG?raw=true' >
