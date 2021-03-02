@@ -9,4 +9,4 @@ Classification of the techniques of spatial analysis is difficult because of the
 
 <img src="http://www.admitnetwork.org/wp-content/uploads/2015/09/Capture9.png" >
 
-<img src="https://lh3.googleusercontent.com/proxy/Ktznm2U_T5YA1NZINiUwu1_ BfrCfSBPgnokMrH0X3BU9uuTc4JmYlmq_1mL_OZj99DrB9bbCU8A7kjjjERVPg71MglvfuHIrtHE9FmtcddCfvu4CgfYkOweIMTfJMhCPhg7PFpEV9zC" >
+<img src="https://lh3.googleusercontent.com/proxy/Ktznm2U_T5YA1NZINiUwu1_BfrCfSBPgnokMrH0X3BU9uuTc4JmYlmq_1mL_OZj99DrB9bbCU8A7kjjjERVPg71MglvfuHIrtHE9FmtcddCfvu4CgfYkOweIMTfJMhCPhg7PFpEV9zC">
