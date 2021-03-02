@@ -8,5 +8,3 @@ Complex issues arise in spatial analysis, many of which are neither clearly defi
 Classification of the techniques of spatial analysis is difficult because of the large number of different fields of research involved, the different fundamental approaches which can be chosen, and the many forms the data can take.
 
 <img src="http://www.admitnetwork.org/wp-content/uploads/2015/09/Capture9.png" >
-
-<img src="https://lh3.googleusercontent.com/proxy/Ktznm2U_T5YA1NZINiUwu1_BfrCfSBPgnokMrH0X3BU9uuTc4JmYlmq_1mL_OZj99DrB9bbCU8A7kjjjERVPg71MglvfuHIrtHE9FmtcddCfvu4CgfYkOweIMTfJMhCPhg7PFpEV9zC">
